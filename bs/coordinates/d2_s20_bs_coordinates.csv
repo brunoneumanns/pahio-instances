@@ -1,0 +1,23 @@
+Index;Type;Name;Street;Plz;Lat;Lon
+0;depot;0;Hansenstr. 69;38112;52.31322;10.49886
+1;depot;1;Stephensonstr. 6;38126;52.25199;10.54959
+2;station;105;Friedrich-Wilhelm-Str. 50;38100;52.26135;10.52108
+3;station;101;Leopoldstr. 29;38100;52.25993;10.52221
+4;station;162;Wolfenbütteler Str. 85;38102;52.25624;10.52727
+5;station;102;Juliusstr. 2a;38118;52.25956;10.50867
+6;station;174;Goslarsche Str. 21;38118;52.26416;10.50543
+7;station;131;Neustadtring 30;38114;52.27374;10.51176
+8;station;143;Rebenring 61;38106;52.27498;10.52408
+9;station;129;Karlstr. 10;38106;52.27275;10.53824
+10;station;106;Willy-Brandt-Platz 1;38102;52.25311;10.53968
+11;station;103;Hans-Sommer-Str. 79;38106;52.27544;10.5364
+12;station;216;Nordstr. 33;38106;52.2775;10.53381
+13;station;104;Hildesheimer Str. 32;38114;52.27186;10.49639
+14;station;142;Helmstedter Str. 107;38126;52.25573;10.54925
+15;station;112;Helmstedter Str. 112;38126;52.2555;10.54991
+16;station;197;Celler Str. 65;38114;52.27959;10.50537
+17;station;115;Hans-Sommer-Str. 25;38106;52.27754;10.54219
+18;station;215;Lichtwerkallee 2;38106;52.28118;10.53064
+19;station;203;Hannoversche Str. 59;38116;52.27347;10.49348
+20;station;214;Weinbergweg 34;30106;52.28231;10.52438
+21;station;135;Donauknoten 9;38120;52.24878;10.48746
